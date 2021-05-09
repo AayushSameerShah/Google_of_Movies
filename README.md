@@ -1,6 +1,3 @@
-# Google of Movies
-I think this should not be here... So SMALL project!!
+# Please download both files.
 
-Just to showcase, a small test on API. Check it out.
-
-Run `GUI.py`
+# Then run the GUI.py
